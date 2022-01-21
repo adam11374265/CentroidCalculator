@@ -1,5 +1,11 @@
 *
 {
-  margin: 0px;
-  overflow: hidden;
+	margin: 0px;
+	overflow: hidden;
+}
+
+
+body
+{
+	cursor: crosshair;
 }
